@@ -1,4 +1,4 @@
-# get-port
+# find-available-port
 
 > Get an available [TCP port]
 
