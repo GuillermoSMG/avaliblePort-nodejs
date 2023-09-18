@@ -1,0 +1,29 @@
+{
+  "name": "find-available-port",
+  "version": "1.0.0",
+  "description": "Get an available port.",
+  "author": {
+    "name": "Guillermo San Martín",
+    "email": "guille.seba0802@gmail.com"
+  },
+  "license": "MIT",
+  "main": "src/availablePort.js",
+  "type": "module",
+  "keywords": [
+    "port",
+    "find",
+    "finder",
+    "portfinder",
+    "free",
+    "available",
+    "connection",
+    "connect",
+    "open",
+    "net",
+    "tcp",
+    "scan",
+    "random",
+    "preferred",
+    "chosen"
+  ]
+}
