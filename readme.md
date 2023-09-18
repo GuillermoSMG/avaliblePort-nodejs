@@ -11,7 +11,7 @@ npm install find-a-port
 ## Usage
 
 ```js
-import findAvailablePort from 'available-port';
+import findAvailablePort from 'find-a-port';
 
 console.log(await findAvailablePort());
 //=> 49749
@@ -20,7 +20,7 @@ console.log(await findAvailablePort());
 Pass in a desired port:
 
 ```js
-import findAvailablePort from 'available-port';
+import findAvailablePort from 'find-a-port';
 
 console.log(await findAvailablePort(4321));
 // Will use 4321 if available, if not get a random port
