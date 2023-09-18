@@ -1,5 +1,5 @@
 {
-  "name": "find-available-port",
+  "name": "find-a-port",
   "version": "1.0.0",
   "description": "Get an available port.",
   "author": {

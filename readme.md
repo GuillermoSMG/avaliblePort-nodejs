@@ -1,11 +1,11 @@
-# find-available-port
+# find-a-port
 
 > Get an available [TCP port]
 
 ## Install
 
 ```sh
-npm install available-port
+npm install find-a-port
 ```
 
 ## Usage
